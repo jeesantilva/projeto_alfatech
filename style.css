@@ -19,16 +19,6 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-.topo,
-.banner_apresentacao,
-.primeiro_anuncio,
-.segundo_anuncio,
-.informacoes,
-.container_planos,
-.rodape,
-.container_principal {
-    width: 100vw;
-}
 
 .topo {
     display: flex;
